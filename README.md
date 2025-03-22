@@ -1,5 +1,5 @@
 # Caesar_Cipher
-This is an Encryption - Decryption techinique.
+This is an Encryption - Decryption technique.
 
 This repository contains a simple implementation of a **Caesar Cipher**, a type of substitution cipher where each letter in the text is shifted by a fixed number of positions (shift key) in the alphabet. The program provides both encryption and decryption functionalities using this cipher.
 
